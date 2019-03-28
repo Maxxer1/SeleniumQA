@@ -1,7 +1,7 @@
 # SeleniumQA
 Automatyzacja z użyciem Selenium
 
-#Uruchomienie
+# Uruchomienie
 1. Klonujemy repozytrorium
 2. Instalujemy pythona 3.7
 3. W katalogu projektu `pip install -r requirements.txt`
